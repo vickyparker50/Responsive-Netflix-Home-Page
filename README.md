@@ -9,9 +9,9 @@ Bootstrap
 
 Screenshots 
 
-![Screenshot (1056)](https://github.com/vickyparker50/Responsive-Netflix-Home-Page/assets/120999307/83231a2d-e19c-45d6-ab2b-034003416fc8)
-![Screenshot (1062)](https://github.com/vickyparker50/Responsive-Netflix-Home-Page/assets/120999307/aa1c0b4c-3410-4e5c-b904-29e5fe20435b)
-![Screenshot (1063)](https://github.com/vickyparker50/Responsive-Netflix-Home-Page/assets/120999307/f92564fc-8c99-4ad7-90aa-9c557734b870)
-![Screenshot (1064)](https://github.com/vickyparker50/Responsive-Netflix-Home-Page/assets/120999307/bf771c2d-cab7-4733-ba48-197073a3c1d9)
-![Screenshot (1065)](https://github.com/vickyparker50/Responsive-Netflix-Home-Page/assets/120999307/7463d4fd-8965-46bf-aa66-a13caf6a033d)
-![Screenshot (1066)](https://github.com/vickyparker50/Responsive-Netflix-Home-Page/assets/120999307/17cba409-d7d3-4dae-bad4-160f444d8da9)
+![Screenshot (1067)](https://github.com/vickyparker50/Responsive-Netflix-Home-Page/assets/120999307/bd6def20-b88b-4a4f-b1e3-cf82eb7d8c5d)
+![Screenshot (1068)](https://github.com/vickyparker50/Responsive-Netflix-Home-Page/assets/120999307/c6966d17-4cf9-4c3d-a621-1ed0f3d926b6)
+![Screenshot (1069)](https://github.com/vickyparker50/Responsive-Netflix-Home-Page/assets/120999307/3b002ff7-a06a-455d-b71e-9bb1eba78a97)
+![Screenshot (1070)](https://github.com/vickyparker50/Responsive-Netflix-Home-Page/assets/120999307/88677fad-d876-4746-a8b7-b8747b2f1154)
+![Screenshot (1071)](https://github.com/vickyparker50/Responsive-Netflix-Home-Page/assets/120999307/b853ed5f-2c3a-4e7f-b585-80fdbe02ccfc)
+![Screenshot (1072)](https://github.com/vickyparker50/Responsive-Netflix-Home-Page/assets/120999307/ca54b0dc-055c-4819-8882-bf997c899938)
